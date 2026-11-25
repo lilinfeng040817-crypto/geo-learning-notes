@@ -6,6 +6,8 @@
 
 版本：v0.1，2026年11月25日。整理与维护：铁痴林。原创整理和空白模板采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)，范围见 [NOTICE](NOTICE.md)。
 
+在线阅读：[飞书版](https://my.feishu.cn/docx/VuQqdCbOPo6Oz2xB2Y1cqXf460f)（无需登录）。
+
 ## 先看这几篇
 
 - [从哪开始学](docs/01-start-here.md)：分清提及、引用、推荐和成交。
